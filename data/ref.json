@@ -1,0 +1,220 @@
+{
+	"speakers": [
+		{
+			"id": "",
+			"name": "",
+			"photo": "",
+			"url": "",
+			"biography": "",
+			"organization": "",
+			"organization_url": "",
+			"position": "",
+			"sessions": [],
+			"links": [
+				{
+					"url": "",
+					"title": "",
+					"service": "",
+					"type": "speaker-link"
+				}
+			],
+			"event": "",
+			"type": "speaker",
+			"last_modified": 0
+		}
+	],
+	"locations": [
+		{
+			"id": "",
+			"label_de": "",
+			"label_en": "",
+			"order_index": 0,
+			"type": "location",
+			"event": "",
+			"is_stage": false,
+			"last_modified": 0
+		}
+	],
+	"sessions": [
+	{
+			"id": "",
+			"title": "",
+			"abstract": "",
+			"description": "",
+			"url": "",
+			"begin": "2015-05-07T11:45:00.000Z",
+			"end": "2015-05-07T12:45:00.000Z",
+			"duration": 3600,
+			"day": {
+				"id": "",
+				"label_de": "",
+				"label_en": "",
+				"date": "2015-05-07"
+			},
+			"location": {
+				"id": "",
+				"label_en": "",
+				"label_de": ""
+			},
+			"track": {
+				"id": "",
+				"label_de": "",
+				"label_en": "",
+				"color": [
+					99,
+					157,
+					36,
+					1
+				]
+			},
+			"format": {
+				"id": "",
+				"label_de": "",
+				"label_en": ""
+			},
+			"level": {
+				"id": "",
+				"label_de": "",
+				"label_en": ""
+			},
+			"lang": {
+				"id": "",
+				"label_de": "",
+				"label_en": ""
+			},
+			"speakers": [
+				{
+					"id": "",
+					"name": ""
+				}
+			],
+			"enclosures": [],
+			"links": [
+				{
+					"thumbnail": "",
+					"title": "",
+					"url": "",
+					"service": "",
+					"type": "recording"
+				}
+			],
+			"event": "rp15",
+			"type": "session",
+			"last_modified": 1430930440.866
+		}
+	],
+	"tracks": [
+		{
+			"id": "",
+			"label_de": "",
+			"label_en": "",
+			"color": [
+				99,
+				157,
+				36,
+				1
+			],
+			"event": "",
+			"type": "track",
+			"last_modified": 1430930440.866
+		}
+	],
+	"formats": [
+		{
+			"id": "",
+			"label_de": "",
+			"label_en": "",
+			"event": "",
+			"type": "format",
+			"last_modified": 1430930440.866
+		}
+	],
+	"levels": [
+		{
+			"id": "",
+			"label_de": "",
+			"label_en": "",
+			"event": "",
+			"type": "level",
+			"last_modified": 1430930440.866
+		}
+	],
+	"languages": [
+		{
+			"id": "",
+			"label_de": "",
+			"label_en": "",
+			"event": "",
+			"type": "language",
+			"last_modified": 1430930440.866
+		}
+	],
+	"days": [
+		{
+			"id": "",
+			"label_de": "",
+			"label_en": "",
+			"date": "2015-05-05",
+			"event": "",
+			"type": "day",
+			"last_modified": 1430930440.866
+		}
+	],
+	"maps": [
+		{
+			"event": "",
+			"id": "",
+			"type": "map",
+			"label_de": "",
+			"label_en": "",
+			"floor_label_de": "",
+			"floor_label_en": "",
+			"is_outdoor": true,
+			"is_indoor": true,
+			"floor": 0,
+			"order_index": 0,
+			"area": {
+				"width": 7872,
+				"height": 2814
+			},
+			"tiles": {
+				"base_url": "",
+				"large_image_url": "",
+				"tile_size": 512,
+				"tile_file_extension": "png",
+				"size": {
+					"width": 7872,
+					"height": 2814
+				}
+			},
+			"pois": [],
+			"last_modified": 1430930440.866
+		}
+	],
+	"pois": [
+		{
+			"id": "",
+			"type": "poi",
+			"label_en": "",
+			"label_de": "",
+			"category": "",
+			"positions": [
+				{
+					"map": "",
+					"x": 1536,
+					"y": 918
+				}
+			],
+			"hidden": false,
+			"priority": 1000,
+			"beacons": [],
+			"location": {
+				"id": "",
+				"label_de": "",
+				"label_en": ""
+			},
+			"event": "",
+			"last_modified": 1430930440.866
+		}
+	]
+}
