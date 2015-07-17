@@ -1,0 +1,426 @@
+{
+	"speakers": [
+		{
+			"id": "rp15-speaker-5552",
+			"name": "Alexander Gräsel",
+			"photo": "https://re-publica.de/sites/re-publica.de/files/styles/speaker_profile/public/media/pictures/ich_-_kopie.jpg",
+			"url": "https://re-publica.de/member/5552#profile-speaker",
+			"biography": "Willkommen, Welcome, Velkommen, Bienvenue, Benvenuti, Bienvenido! Mein Name ist Alexander Gräsel und ich bin Projektleiter / Softwareentwickler bei einer Versicherung in Wiesbaden (Hessen). Nebenberuflich studiere ich den Master of Science der Fachrichtung Wirtschaftsinformatik und seit 2009 programmiere/blogge ich unter dem Pseudonym 'AxxG'. Dabei beschäftige ich mich primär mit der Softwareentwicklung in Java, Java EE und C/C++. Zusätzlich befasse ich mich mit (Web)Design, Fotografie, Garnelenzucht und natürlich Android:)",
+			"organization": "AxxG",
+			"organization_url": "http://blog.axxg.de/",
+			"position": "Projektleiter / Softwareentwickler",
+			"sessions": [],
+			"links": [
+				{
+					"url": "http://blog.axxg.de/",
+					"title": "Blog",
+					"service": "web",
+					"type": "speaker-link"
+				},
+				{
+					"url": "http://www.axxg.de",
+					"title": "Webseite",
+					"service": "web",
+					"type": "speaker-link"
+				},
+				{
+					"url": "https://play.google.com/store/apps/developer?id=AxxG&hl=de",
+					"title": "Android-Apps",
+					"service": "web",
+					"type": "speaker-link"
+				},
+				{
+					"url": "http://twitter.com/axxgblog",
+					"title": "Twitter @axxgblog",
+					"service": "twitter",
+					"type": "speaker-link",
+					"username": "axxgblog"
+				}
+			],
+			"event": "rp15",
+			"type": "speaker",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "rp15-speaker-2613",
+			"name": "Thomas Kollbach",
+			"photo": "https://re-publica.de/sites/re-publica.de/files/styles/speaker_profile/public/media/pictures/toto_nxtbgthng_square_480.jpg",
+			"url": "https://re-publica.de/member/2613#profile-speaker",
+			"biography": "Software developer by day, hacker at heart Thomas 'toto' Kollbach is a co-founder of nxtbgthng, a mobile software development studio focused building on high-quality mobile apps.",
+			"organization": "nxtbgthng GmbH",
+			"organization_url": "https://nxtbgthng.com",
+			"position": "Co-Founder",
+			"sessions": [],
+			"links": [
+				{
+					"url": "https://twitter.com/mrtoto",
+					"title": "Twitter",
+					"service": "twitter",
+					"type": "speaker-link",
+					"username": "mrtoto"
+				},
+				{
+					"url": "https://thomas.kolba.ch",
+					"title": "Homepage",
+					"service": "web",
+					"type": "speaker-link"
+				},
+				{
+					"url": "https://alpha.app.net/mrtoto",
+					"title": "App.net",
+					"service": "web",
+					"type": "speaker-link"
+				}
+			],
+			"event": "rp15",
+			"type": "speaker",
+			"last_modified": 1430930440.866
+		}
+	],
+	"locations": [
+		{
+			"id": "rp15-location-5591",
+			"label_de": "STG-1",
+			"label_en": "STG-1",
+			"order_index": 0,
+			"type": "location",
+			"event": "rp15",
+			"is_stage": false,
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "rp15-location-5929",
+			"label_de": "STG-2",
+			"label_en": "STG-2",
+			"order_index": 1,
+			"type": "location",
+			"event": "rp15",
+			"is_stage": false,
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "rp15-location-5930",
+			"label_de": "STG-3",
+			"label_en": "STG-3",
+			"order_index": 2,
+			"type": "location",
+			"event": "rp15",
+			"is_stage": false,
+			"last_modified": 1430930440.866
+		}
+	],
+	"sessions": [
+	{
+			"id": "rp15-session-5838",
+			"title": "re:data – ein Standard für offene Konferenzdaten",
+			"abstract": "Wir haben einen Standard für offene Konferenzdaten entwickelt, auf dem nun zahlreiche Apps und Dienste entwickelt werden. In unserem Workshop wollen wir den Standard, die ersten Anwendungen und die re:publica-Apps vorstellen. Wir wollen Feedback einsammeln und erklären, wie jede Konferenz und jede_r Entwickler_in mitmachen kann.",
+			"description": "Im Laufe der letzten Jahre sind um die Webkonferenz re:publica mehrere mobile Apps und Webanwendungen entstanden. Um deren Entwicklung zu einem Ökosystem weiter zu unterstützen, bieten wir unter dem Arbeitstitel \"re:data\" eine feste Schnittstelle an. Sie ist bereits online unter data.re-publica.de zu finden. Über sie können alle Anwendungen einfach und standardisiert alle relevanten Daten abrufen.\n\nDer Clou dabei: Das komplette System kann beliebig erweitert und mit beliebigen Daten angereichert werden. Da die Schnittstelle OpenSource ist, kann sie auch für andere Konferenzen eingesetzt werden - alle Apps, die diese Schnittstelle nutzen, können dann sofort auch für die weiteren Konferenzen verwendet werden.\n\nIn diesem Workshop wollen wir das System genauer vorstellen, zeigen, wie man als Konferenz mitmachen kann, Fragen beantworten, Feedback sammeln und gemeinsam Weiterentwicklungsmöglichkeiten erarbeiten.\n",
+			"url": "https://re-publica.de/session/redata-standard-fur-offene-konferenzdaten",
+			"begin": "2015-05-07T11:45:00.000Z",
+			"end": "2015-05-07T12:45:00.000Z",
+			"duration": 3600,
+			"day": {
+				"id": "rp15-day-3",
+				"label_de": "7. Mai",
+				"label_en": "May 7",
+				"date": "2015-05-07"
+			},
+			"location": {
+				"id": "rp15-location-5930",
+				"label_en": "STG-3",
+				"label_de": "STG-3"
+			},
+			"track": {
+				"id": "re-publica",
+				"label_de": "re:publica",
+				"label_en": "re:publica",
+				"color": [
+					99,
+					157,
+					36,
+					1
+				]
+			},
+			"format": {
+				"id": "workshop",
+				"label_de": "Workshop",
+				"label_en": "Workshop"
+			},
+			"level": {
+				"id": "intermediate",
+				"label_de": "Fortgeschrittene",
+				"label_en": "Intermediate"
+			},
+			"lang": {
+				"id": "de",
+				"label_de": "Deutsch",
+				"label_en": "German"
+			},
+			"speakers": [
+				{
+					"id": "rp15-speaker-5552",
+					"name": "Alexander Gräsel"
+				},
+				{
+					"id": "rp15-speaker-2613",
+					"name": "Thomas Kollbach"
+				}
+			],
+			"enclosures": [],
+			"links": [],
+			"event": "rp15",
+			"type": "session",
+			"last_modified": 1430930440.866
+		}
+	],
+	"tracks": [
+		{
+			"id": "re-publica",
+			"label_de": "re:publica",
+			"label_en": "re:publica",
+			"color": [
+				99,
+				157,
+				36,
+				1
+			],
+			"event": "rp15",
+			"type": "track",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "research-education",
+			"label_de": "Forschung & Bildung",
+			"label_en": "Research & Education",
+			"color": [
+				102,
+				102,
+				204,
+				1
+			],
+			"event": "rp15",
+			"type": "track",
+			"last_modified": 1430930440.866
+		}
+	],
+	"formats": [
+		{
+			"id": "action",
+			"label_de": "Aktion",
+			"label_en": "Action",
+			"event": "rp15",
+			"type": "format",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "discussion",
+			"label_de": "Diskussion",
+			"label_en": "Discussion",
+			"event": "rp15",
+			"type": "format",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "talk",
+			"label_de": "Vortrag",
+			"label_en": "Talk",
+			"event": "rp15",
+			"type": "format",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "workshop",
+			"label_de": "Workshop",
+			"label_en": "Workshop",
+			"event": "rp15",
+			"type": "format",
+			"last_modified": 1430930440.866
+		}
+	],
+	"levels": [
+		{
+			"id": "advanced",
+			"label_de": "Experten",
+			"label_en": "Advanced",
+			"event": "rp15",
+			"type": "level",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "beginner",
+			"label_de": "Anfänger",
+			"label_en": "Beginner",
+			"event": "rp15",
+			"type": "level",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "intermediate",
+			"label_de": "Fortgeschrittene",
+			"label_en": "Intermediate",
+			"event": "rp15",
+			"type": "level",
+			"last_modified": 1430930440.866
+		}
+	],
+	"languages": [
+		{
+			"id": "de",
+			"label_de": "Deutsch",
+			"label_en": "German",
+			"event": "rp15",
+			"type": "language",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "de+en",
+			"label_de": "Deutsch/Englisch",
+			"label_en": "German/English",
+			"event": "rp15",
+			"type": "language",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "en",
+			"label_de": "Englisch",
+			"label_en": "English",
+			"event": "rp15",
+			"type": "language",
+			"last_modified": 1430930440.866
+		}
+	],
+	"days": [
+		{
+			"id": "rp15-day-1",
+			"label_de": "5. Mai",
+			"label_en": "May 5",
+			"date": "2015-05-05",
+			"event": "rp15",
+			"type": "day",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "rp15-day-2",
+			"label_de": "6. Mai",
+			"label_en": "May 6",
+			"date": "2015-05-06",
+			"event": "rp15",
+			"type": "day",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "rp15-day-3",
+			"label_de": "7. Mai",
+			"label_en": "May 7",
+			"date": "2015-05-07",
+			"event": "rp15",
+			"type": "day",
+			"last_modified": 1430930440.866
+		}
+	],
+	"maps": [
+		{
+			"event": "rp15",
+			"id": "rp15-map-level0",
+			"type": "map",
+			"label_de": "Station Berlin",
+			"label_en": "Station Berlin",
+			"floor_label_de": "Station Berlin",
+			"floor_label_en": "Station Berlin",
+			"is_outdoor": true,
+			"is_indoor": true,
+			"floor": 0,
+			"order_index": 0,
+			"area": {
+				"width": 7872,
+				"height": 2814
+			},
+			"tiles": {
+				"base_url": "http://data.conference.bits.io/maps/rp15/station-berlin",
+				"large_image_url": "http://data.conference.bits.io/maps/rp15/station-berlin/mini.png",
+				"tile_size": 512,
+				"tile_file_extension": "png",
+				"size": {
+					"width": 7872,
+					"height": 2814
+				}
+			},
+			"pois": [],
+			"last_modified": 1430930440.866
+		}
+	],
+	"pois": [
+		{
+			"id": "rp15-pointofinterest-stage1",
+			"type": "poi",
+			"label_en": "STG-1",
+			"label_de": "STG-1",
+			"category": "session-location",
+			"positions": [
+				{
+					"map": "rp15-map-level0",
+					"x": 1536,
+					"y": 918
+				}
+			],
+			"hidden": false,
+			"priority": 1000,
+			"beacons": [],
+			"location": {
+				"id": "rp15-location-5591",
+				"label_de": "STG-1",
+				"label_en": "STG-1"
+			},
+			"event": "rp15",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "rp15-pointofinterest-stage2",
+			"type": "poi",
+			"label_en": "STG-2",
+			"label_de": "STG-2",
+			"category": "session-location",
+			"positions": [
+				{
+					"map": "rp15-map-level0",
+					"x": 342,
+					"y": 454
+				}
+			],
+			"hidden": false,
+			"priority": 1000,
+			"beacons": [],
+			"location": {
+				"id": "rp15-location-5929",
+				"label_de": "STG-2",
+				"label_en": "STG-2"
+			},
+			"event": "rp15",
+			"last_modified": 1430930440.866
+		},
+		{
+			"id": "rp15-pointofinterest-stage3",
+			"type": "poi",
+			"label_en": "STG-3",
+			"label_de": "STG-3",
+			"category": "session-location",
+			"positions": [
+				{
+					"map": "rp15-map-level0",
+					"x": 730,
+					"y": 1150
+				}
+			],
+			"hidden": false,
+			"priority": 1000,
+			"beacons": [],
+			"location": {
+				"id": "rp15-location-5930",
+				"label_de": "STG-3",
+				"label_en": "STG-3"
+			},
+			"event": "rp15",
+			"last_modified": 1430930440.866
+		}
+	]
+}
